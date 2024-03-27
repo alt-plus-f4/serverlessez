@@ -1,0 +1,27 @@
+{
+  "name": "serverlessez",
+  "version": "1.0.0",
+  "description": "NodeJS api routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-plus-f4/serverlessez.git"
+  },
+  "keywords": [
+    "nodejs",
+    "azure",
+    "api"
+  ],
+  "author": "Valentin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alt-plus-f4/serverlessez/issues"
+  },
+  "homepage": "https://github.com/alt-plus-f4/serverlessez#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
